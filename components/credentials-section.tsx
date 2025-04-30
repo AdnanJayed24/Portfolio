@@ -49,7 +49,7 @@ export function CredentialsSection() {
                   </div>
                   <div className="flex justify-between">
                     <span className="text-muted-foreground">Since:</span>
-                    <span>{credential.date}</span>
+                    {/* <span>{credential.date}</span> */}
                   </div>
                 </div>
                 
